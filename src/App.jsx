@@ -45,6 +45,7 @@ function App() {
       description:
         "Création d'un tableau kanban: Gesion de projet (user stories et wireframes), Modélisation MERISE(Mcd et Mld), Architecture (Sequelize models)",
       image: "/image/kanban.jpg",
+      url: "https://okanban-api-e719.onrender.com"
     },
     {
       id: 6,
