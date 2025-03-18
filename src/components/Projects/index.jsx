@@ -7,12 +7,18 @@ export default function Projects({
 }) {
   return (
     <section id="projects">
-    <h1>Presentation</h1>
-    <p> Bonjour, bienvenue sur mon Portfolio ,je suis actuellement en  formation intensive au métier de concepteur et développeur d'application auprès de l'école O'clock,
-    dans le cadre d'une reconversion professionnelle. Apès avoir passé 10 années dans le domaine bancaire je ressentais le besoin de changement.. 
-    Ce cursus exigeant m'a permis d'acquérir des compétences solides dans les langages et technologies tels que HTML, CSS, JavaScript, Node.js, PostgreSQL 
-    et React, que je vous présente sous forme de projets ci dessous.
-</p>
+      <h1>Presentation</h1>
+      <p> Bonjour,</p>
+      <p>
+        Bienvenue sur mon Portfolio (toujours en cours d'amélioration),je suis
+        actuellement en formation au métier de Concepteur et Développeur
+        d'Application auprès de l'école O'clock, dans le cadre d'une
+        reconversion professionnelle. Après avoir passé 10 années dans le
+        domaine bancaire, ma carrière prend un nouveau tournant.. Ce cursus
+        exigeant me permet d'acquérir des compétences solides dans les langages
+        et technologies tels que HTML, CSS, JavaScript, Node.js, PostgreSQL et
+        React, que je vous présente avec les projets ci dessous.
+      </p>
 
       <h1>Mes Projets</h1>
       <div className="projects">

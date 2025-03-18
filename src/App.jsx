@@ -21,7 +21,7 @@ function App() {
       description:
         "Projet regroupant differents jeux réalisés avec JavaScript Express et EJS",
       image: "/image/boardgames.png",
-      url: "https://gamehub-nqlz.onrender.com/"
+      url: "https://gamehub-nqlz.onrender.com/",
     },
     {
       id: 3,
@@ -29,7 +29,7 @@ function App() {
       description:
         "Création d'un site vitrine de café, réalisé avec JavaScript, Ejs, Html, Css, PostgreSQL",
       image: "/image/café.jpg",
-      url: "https://o-coffee-y472.onrender.com"
+      url: "https://o-coffee-y472.onrender.com",
     },
     {
       id: 4,
@@ -37,7 +37,7 @@ function App() {
       description:
         "Création d'un quiz, réalisé avec PostgreSQL en grande partie ,JavaScript, Ejs, Html, Css, ",
       image: "/image/Quiz.jpg",
-      url: "https://oquiz-rw6p.onrender.com"
+      url: "https://oquiz-rw6p.onrender.com",
     },
     {
       id: 5,
@@ -45,7 +45,8 @@ function App() {
       description:
         "Création d'un tableau kanban: Gesion de projet (user stories et wireframes), Modélisation MERISE(Mcd et Mld), Architecture (Sequelize models)",
       image: "/image/kanban.jpg",
-      url: "https://okanban-api-e719.onrender.com"
+      url: "https://okanban-api-e719.onrender.com",
+      url2: "https://okanban-front-6t0t.onrender.com",
     },
     {
       id: 6,
@@ -53,6 +54,7 @@ function App() {
       description:
         "Création d'un site vitrine de recette avec APi et front en react",
       image: "/image/o'recipes.jpg",
+      url: "https://orecipes.onrender.com",
     },
     {
       id: 7,
